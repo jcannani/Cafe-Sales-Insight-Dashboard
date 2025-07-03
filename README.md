@@ -7,15 +7,15 @@ This project analyzes 10,000+ cafe transactions to uncover sales trends, custome
 [View on Streamlit]
 (https://cafe-sales-insight-dashboard-c9p8aufngb3usaskzp5hgp.streamlit.app/)
 
-**Tools**
+**Tools:**
 
 -Python (pandas, matplotlib, plotly)
 
- Streamlit
+-Streamlit
 
 -Tableau (optional)
 
-**Features**
+**Features:**
 
 -Cleaned and validated messy data sales data
 
@@ -23,7 +23,7 @@ This project analyzes 10,000+ cafe transactions to uncover sales trends, custome
 
 -Built an interactive dashboard for buisness insights
 
-**Run Locally**
+**Run Locally:**
 
 '''bash
 
