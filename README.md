@@ -11,7 +11,7 @@ This project analyzes 10,000+ cafe transactions to uncover sales trends, custome
 
 -Python (pandas, matplotlib, plotly)
 
--Streamlit
+ Streamlit
 
 -Tableau (optional)
 
@@ -24,6 +24,7 @@ This project analyzes 10,000+ cafe transactions to uncover sales trends, custome
 -Built an interactive dashboard for buisness insights
 
 **Run Locally**
+
 '''bash
 
 streamlit run app.py
