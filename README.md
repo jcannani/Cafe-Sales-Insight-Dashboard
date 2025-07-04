@@ -8,7 +8,7 @@ This project analyzes 10,000+ cafe transactions to uncover sales trends, custome
 
 [View on Tableau](https://public.tableau.com/app/profile/joanna.ni6698/vizzes)
  
- -[Sales Overview Dashboard, Top Product Dashboard, Payment Method Analysis Dashboard, Location Performance Dashboard, Custom Filters & Drilldown Dashboard]
+ -[Sales Overview Dashboard, Top Product Dashboard, Payment Method Analysis Dashboard, Location Performance Dashboard]
 
 **🔧 Tools:**
 
