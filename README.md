@@ -24,4 +24,4 @@ This project analyzes 10,000+ cafe transactions to uncover sales trends, custome
 
 -Identified top-selling items and peak sales periods
 
--Built an interactive dashboard for buisness insights
+-Built an interactive dashboard for business insights
